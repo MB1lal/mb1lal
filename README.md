@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Provlem Solving](https://github.com/MB1lal/TrickQuestions/tree/master)
 
-- 🌱 I’m currently learning **NUnit and Python**
+- 🌱 I’m currently learning **Kotlin**
 
-- 👯 I’m looking to collaborate on **A python based testing framework**
+- 👯 I’m looking to collaborate on **[Kotlin Automation Framework](https://github.com/MB1lal/KotlinAutomationFramework)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MB1lal](https://github.com/MB1lal)
 
