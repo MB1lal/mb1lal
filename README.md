@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mb1lal&label=Profile%20views&color=0e75b6&style=flat" alt="mb1lal" /> </p>
 
-- 🔭 I’m currently working on [Provlem Solving](https://github.com/MB1lal/TrickQuestions/tree/master)
+- 🔭 I’m currently working on [DotNetTestingFramework](https://github.com/MB1lal/DotNetTestingFramework)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **NUnit**
 
 - 👯 I’m looking to collaborate on **[Kotlin Automation Framework](https://github.com/MB1lal/KotlinAutomationFramework)**
 
