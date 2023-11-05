@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MB1lal](https://github.com/MB1lal)
  
-- 🐳 All of my docker images are available at [https://hub.docker.com/repositories/mb1lal](https://hub.docker.com/repositories/mb1lal)
+- 🐳 All of my docker images are available at [Docker Repository](https://hub.docker.com/repositories/mb1lal)
 
 - 💬 Ask me about **Testing, Selenium, Framework improvements**
 
