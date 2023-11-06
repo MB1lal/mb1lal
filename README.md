@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **NUnit**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MB1lal](https://github.com/MB1lal)
+- 👨‍💻 All of my projects are available [GitHub](https://github.com/MB1lal)
  
 - 🐳 All of my docker images are available at [Docker Repository](https://hub.docker.com/repositories/mb1lal)
 
