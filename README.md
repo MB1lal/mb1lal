@@ -4,7 +4,7 @@
 <h3 align="center">A passionate and skilled software QA engineer with a strong focus on automation and delivering high-quality software. I have extensive experience in various tools and frameworks, including Serenity, Cucumber, JUnit, Selenium, RestAssured, Appium, NUnit, Cypress, Playwright, RestSharp, and Allure reporting. My commitment to quality and continuous learning is evident through my ISTQB certifications and diverse project portfolio.</h3>
 
 
-My Expertise:
+## My Expertise:
 
 ⚙️ Test Automation Frameworks: Serenity, Cucumber, NUnit, Playwright, Cypress, JUnit, TestNG
 
@@ -24,17 +24,15 @@ My Expertise:
 👨‍💻 Languages: Java, Kotlin, JavaScript, Bash, C#, Python
 
 
-Methodologies: Agile
-
-📚 Certifications:
+## 📚 Certifications:
 - ISTQB Foundation Tester
 - ISTQB Advanced Level Test Automation Engineer
-- ISTQB Foundation Specialist Automotive Tester
+- ISTQB Certified Automotive Tester
 - AWS Cloud Practitioner
 
-👨‍💻 Projects:
+## 👨‍💻 Projects:
 
-- DockerHub URL:
+- DockerHub:
  - It contains couple of docker images ready to be used for running tests. 
  - https://hub.docker.com/repository/docker/mb1lal
 - JavaAutomationFramework:
@@ -59,17 +57,17 @@ Methodologies: Agile
   - Serenity, Cucumber, JUnit, Selenium, RestAssured, Supports Parallel execution
   - https://github.com/MB1lal/PlayWrightPractice
  
- Open to opportunities:
+ ## Open to opportunities:
 
  I'm always looking for new challenges and opportunities to collaborate with others. Feel free to reach out if you're interested in working together or have any questions about my qualifications.
 
- 📫 Contact Information:
+ ## 📫 Contact Information:
 
 - Email: m.b1lal@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/m-bilalawan 
 - Medium: https://medium.com/@m.b1lal
 
-<h3 align="left">Connect with me:</h3>
+## <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/m-bilalawan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="m-b1lal" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@m_b1lal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@m_b1lal" height="30" width="40" /></a>
