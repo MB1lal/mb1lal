@@ -1,4 +1,4 @@
- <img src="https://camo.githubusercontent.com/09436cf6345116047894a2f8eda22259d653ec998c91fae607d8214027861f82/68747470733a2f2f7777772e7368757474657273746f636b2e636f6d2f696d6167652d766563746f722f736f6674776172652d74657374696e672d62616e6e65722d7765622d69636f6e2d3236306e772d323231393939313332312e6a7067" alt="MasterHead" data-canonical-src="https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2219991321.jpg" style="max-width: 100%;">
+<img src="https://camo.githubusercontent.com/09436cf6345116047894a2f8eda22259d653ec998c91fae607d8214027861f82/68747470733a2f2f7777772e7368757474657273746f636b2e636f6d2f696d6167652d766563746f722f736f6674776172652d74657374696e672d62616e6e65722d7765622d69636f6e2d3236306e772d323231393939313332312e6a7067" alt="MasterHead" data-canonical-src="https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2219991321.jpg" style="max-width: 100%;">
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=mb1lal&label=Profile%20views&color=0e75b6&style=flat-square" alt="mb1lal" /> </p>
 <h1 align="center">Hi 👋, I'm Muhammad Bilal Awan</h1>
 <h3 align="center">A passionate and skilled software QA engineer with a strong focus on automation and delivering high-quality software. I have extensive experience in various tools and frameworks, including Serenity, Cucumber, JUnit, Selenium, RestAssured, Appium, NUnit, Cypress, Playwright, RestSharp, and Allure reporting. My commitment to quality and continuous learning is evident through my ISTQB certifications and diverse project portfolio.</h3>
@@ -6,33 +6,33 @@
 
 My Expertise:
 
-Test Automation Frameworks: Serenity, Cucumber, NUnit, Playwright, Cypress, JUnit, TestNG
+⚙️ Test Automation Frameworks: Serenity, Cucumber, NUnit, Playwright, Cypress, JUnit, TestNG
 
 
-CI/CD Integration: GitHub Actions, Azure Pipelines, Gitlab, CircleCI, Jenkins
+🚀 CI/CD Integration: GitHub Actions, Azure Pipelines, Gitlab, CircleCI, Jenkins
 
 
-Testing Tools: Selenium, Appium, Cypress, Playwright, Robot-Framwork
+🛠️ Testing Tools: Selenium, Appium, Cypress, Playwright, Robot-Framwork
 
 
-API Testing: RestAssured, RestSharp, SerenityRest
+🛠️ API Testing: RestAssured, RestSharp, SerenityRest
 
 
-Reporting: Allure, Serenity, ExtentReporting
+📊 Reporting: Allure, Serenity, ExtentReporting
 
 
-Languages: Java, Kotlin, JavaScript, Bash, C#, Python
+👨‍💻 Languages: Java, Kotlin, JavaScript, Bash, C#, Python
 
 
 Methodologies: Agile
 
-Certifications:
+📚 Certifications:
 - ISTQB Foundation Tester
 - ISTQB Advanced Level Test Automation Engineer
 - ISTQB Foundation Specialist Automotive Tester
 - AWS Cloud Practitioner
 
- Projects:
+👨‍💻 Projects:
 
 - DockerHub URL:
  - It contains couple of docker images ready to be used for running tests. 
@@ -63,7 +63,7 @@ Certifications:
 
  I'm always looking for new challenges and opportunities to collaborate with others. Feel free to reach out if you're interested in working together or have any questions about my qualifications.
 
- Contact Information:
+ 📫 Contact Information:
 
 - Email: m.b1lal@hotmail.com
 - LinkedIn: https://www.linkedin.com/in/m-bilalawan 
