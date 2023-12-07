@@ -6,13 +6,20 @@
 
 My Expertise:
 
-Test Automation Frameworks: Serenity, Cucumber, NUnit, Playwright
-CI/CD Integration: GitHub Actions, Azure Pipelines
-Testing Tools: Selenium, Appium, Cypress, Playwright
-API Testing: RestAssured, RestSharp
-Reporting: Allure
-Languages: Java, Kotlin
-Methodologies: Agile, Waterfall
+Test Automation Frameworks: Serenity, Cucumber, NUnit, Playwright, Cypress, JUnit, TestNG
+
+CI/CD Integration: GitHub Actions, Azure Pipelines, Gitlab, CircleCI, Jenkins
+
+Testing Tools: Selenium, Appium, Cypress, Playwright, Robot-Framwork
+
+API Testing: RestAssured, RestSharp, SerenityRest
+
+Reporting: Allure, Serenity, ExtentReporting
+
+Languages: Java, Kotlin, JavaScript, Bash, C#, Python
+
+Methodologies: Agile
+
 Certifications:
 - ISTQB Foundation Tester
 - ISTQB Advanced Level Test Automation Engineer
