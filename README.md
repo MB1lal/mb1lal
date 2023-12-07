@@ -1,22 +1,60 @@
  <img src="https://camo.githubusercontent.com/09436cf6345116047894a2f8eda22259d653ec998c91fae607d8214027861f82/68747470733a2f2f7777772e7368757474657273746f636b2e636f6d2f696d6167652d766563746f722f736f6674776172652d74657374696e672d62616e6e65722d7765622d69636f6e2d3236306e772d323231393939313332312e6a7067" alt="MasterHead" data-canonical-src="https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2219991321.jpg" style="max-width: 100%;">
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=mb1lal&label=Profile%20views&color=0e75b6&style=flat" alt="mb1lal" /> </p>
 <h1 align="center">Hi 👋, I'm Muhammad Bilal Awan</h1>
-<h3 align="center">A skilled QA Automation Engineer</h3>
+<h3 align="center">A passionate and skilled software QA engineer with a strong focus on automation and delivering high-quality software. I have extensive experience in various tools and frameworks, including Serenity, Cucumber, JUnit, Selenium, RestAssured, Appium, NUnit, Cypress, Playwright, RestSharp, and Allure reporting. My commitment to quality and continuous learning is evident through my ISTQB certifications and diverse project portfolio.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mb1lal&label=Profile%20views&color=0e75b6&style=flat" alt="mb1lal" /> </p>
 
-- 🔭 I’m currently working on [DotNetTestingFramework](https://github.com/MB1lal/DotNetTestingFramework)
+My Expertise:
 
-- 🌱 I’m currently learning **NUnit**
+Test Automation Frameworks: Serenity, Cucumber, NUnit, Playwright
+CI/CD Integration: GitHub Actions, Azure Pipelines
+Testing Tools: Selenium, Appium, Cypress, Playwright
+API Testing: RestAssured, RestSharp
+Reporting: Allure
+Languages: Java, Kotlin
+Methodologies: Agile, Waterfall
+Certifications:
+- ISTQB Foundation Tester
+- ISTQB Advanced Level Test Automation Engineer
+- ISTQB Foundation Specialist Automotive Tester
+- AWS Cloud Practitioner
 
-- 👨‍💻 All of my projects are available [GitHub](https://github.com/MB1lal)
+ Projects:
+
+- DockerHub URL:
+ - It contains couple of docker images ready to be used for running tests. 
+ - https://hub.docker.com/repository/docker/mb1lal
+- JavaAutomationFramework:
+  - Serenity, Cucumber, JUnit, Selenium, RestAssured, Supports Parallel execution
+  - Integrated with GitHub Actions
+  - https://github.com/MB1lal/JavaAutomationFramework
+- KotlingAutomationFramework:
+  - Serenity, Cucumber, JUnit, Selenium, RestAssured
+  - Integrated with GitHub Actions
+  - https://github.com/MB1lal/KotlinAutomationFramework
+- AppiumAutomationFramework:
+  - Serenity, Cucumber, JUnit, Appium, Supports iOS and Android
+  - https://github.com/MB1lal/AppiumAutomationFramework
+- DotNetTestingFramework:
+  - RestSharp, NUnit, Supports Parallel execution, Selenium, Allure
+  - Integrated with GitHub Actions and Azure Pipelines
+  - https://github.com/MB1lal/DotNetTestingFramework
+- Cypress Project:
+  - Integrated with GitHub Actions
+  - https://github.com/MB1lal/CypressAutomation
+- Playwright Project using Java:
+  - Serenity, Cucumber, JUnit, Selenium, RestAssured, Supports Parallel execution
+  - https://github.com/MB1lal/PlayWrightPractice
  
-- 🐳 All of my docker images are available at [Docker Repository](https://hub.docker.com/repositories/mb1lal)
+ Open to opportunities:
 
-- 💬 Ask me about **Testing, Selenium, Framework improvements**
+ I'm always looking for new challenges and opportunities to collaborate with others. Feel free to reach out if you're interested in working together or have any questions about my qualifications.
 
-- 📫 How to reach me **m.b1lal@hotmail.com**
+ Contact Information:
 
-- ⚡ Fun fact **I love to play games.**
+- Email: m.b1lal@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/m-bilalawan 
+- Medium: https://medium.com/@m.b1lal
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,4 +67,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mb1lal&show_icons=true&locale=en&layout=compact" alt="mb1lal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mb1lal&show_icons=true&locale=en" alt="mb1lal" /></p>
